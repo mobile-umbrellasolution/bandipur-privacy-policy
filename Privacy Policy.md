@@ -21,6 +21,7 @@ When you register and use the Bandipur Cable Car Agent Ticketing App, we collect
 - Bank account or digital wallet details for commission disbursement
 - Ticket transaction records, including passenger details entered during sales
 - Device information and usage logs for security and performance monitoring
+- NationalID/Citizenship to verify the user and PAN/VAT to verify their business
 
 ---
 
